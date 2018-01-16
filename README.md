@@ -16,6 +16,7 @@ To create a GitHub pages site for a particular project, you:
 Whenever I commit to this repository, whether on my local machine or by editing files directly on GitHub, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the associated Markdown files.
 
 -----------
+: wq
 
 ## Structuring your site
 
@@ -45,3 +46,11 @@ You can learn more about Jekyll websites [here](https://jekyllrb.com/).
 ### Support or Contact
 
 Having trouble with Pages? Check out more [documentation](https://help.github.com/categories/github-pages-basics/).
+
+
+:wq
+Q!
+q!
+
+
+
